@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Cursando el último año de la carrera de **Ingeniería en Computación**[cite: 1].
+- 🎓 **Formación:** Cursando el último año de la carrera de **Ingeniería en Computación**.
 - ⏱️ **Experiencia:** 1.5 años de trayectoria programando y desarrollando proyectos web.
 - 🤝 **Trabajo en equipo:** Me adapto rápidamente a dinámicas colaborativas, comunicación constante y metodologías ágiles.
 - ⚙️ **Autonomía:** Capaz de resolver problemas complejos, investigar e implementar soluciones de forma totalmente independiente.

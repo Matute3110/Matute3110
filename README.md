@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Andrés Matute
+# 👋 ¡Hola! Soy Juan Matute
 
 🎓 **Estudiante de último año de Ingeniería en Computación** (URBE) **Full-Stack Developer** apasionado por crear software escalable y eficiente.
 

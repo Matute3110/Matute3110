@@ -1,20 +1,19 @@
-# 👋 ¡Hola! Soy Juan Matute
+# 👋 ¡Hola! Soy Juan Matute.
 
-🎓 **Estudiante de último año de Ingeniería en Computación** (URBE) **Full-Stack Developer** apasionado por crear software escalable y eficiente.
+**Estudiante de último año de Ingeniería en Computación** (URBE) **Full-Stack Developer** apasionado por crear software escalable y eficiente.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Cursando el último año de la carrera de **Ingeniería en Computación**.
-- ⏱️ **Experiencia:** 1.5 años de trayectoria programando y desarrollando proyectos web.
-- 🤝 **Trabajo en equipo:** Me adapto rápidamente a dinámicas colaborativas, comunicación constante y metodologías ágiles.
-- ⚙️ **Autonomía:** Capaz de resolver problemas complejos, investigar e implementar soluciones de forma totalmente independiente.
-- 🎯 **Enfoque actual:** Profundizando en arquitectura limpia, desarrollo modular y optimización de bases de datos relacionales.
+**Formación:** Cursando el último año de la carrera de **Ingeniería en Computación**.
+**Experiencia:** 1.5 años de trayectoria programando y desarrollando proyectos web.
+**Trabajo en equipo:** Me adapto rápidamente a dinámicas colaborativas, comunicación constante y metodologías ágiles.
+**Autonomía:** Capaz de resolver problemas complejos, investigar e implementar soluciones de forma totalmente independiente.
+ **Enfoque actual:** Profundizando en arquitectura limpia, desarrollo modular y optimización de bases de datos relacionales.
 
 ---
-
-### 🛠️ Tech Stack
+Tech Stack
 
 **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)

@@ -38,7 +38,9 @@ Tech Stack
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-412991?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 
 ### 📬 ¡Conectemos!

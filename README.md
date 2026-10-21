@@ -26,12 +26,9 @@
 ###  Sobre mí
 
 -  **Actualmente trabajando en:** Desarrollo full-stack con arquitectura modular en NestJS y componentes reactivos en Angular.
--  **Hablemos de:** TypeScript, diseño de bases de datos relacionales, patrones de arquitectura e integración de APIs REST.
--  **Enfoque:** Código limpio, mantenibilidad y buenas prácticas de desarrollo.
 
----
 
-###  Mis Estadísticas en GitHub
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
